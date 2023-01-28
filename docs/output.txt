@@ -1,0 +1,290 @@
+npx wordpress-export-to-markdown
+Need to install the following packages:
+  wordpress-export-to-markdown
+Ok to proceed? (y) y
+npm WARN deprecated har-validator@5.1.5: this library is no longer supported
+npm WARN deprecated request-promise-native@1.0.9: request-promise-native has been deprecated because it extends the now deprecated request package, see https://github.com/request/request/issues/3142
+npm WARN deprecated uuid@3.4.0: Please upgrade  to version 7 or higher.  Older versions may use Math.random() in certain circumstances, which is known to be problematic.  See https://v8.dev/blog/math-random for details.
+npm WARN deprecated request@2.88.2: request has been deprecated, see https://github.com/request/request/issues/3142
+
+Starting wizard...
+? Path to WordPress export file? alexhedley.wordpress.2023-01-28.000.xml
+? Path to output folder? posts
+? Create year folders? Yes
+? Create month folders? Yes
+? Create a folder for each post? Yes
+? Prefix post folders/files with date? No
+? Save images attached to posts? Yes
+? Save images scraped from post body content? Yes
+? Include custom post types and pages? Yes
+
+Parsing...
+2 "page" posts found.
+131 "post" posts found.
+75 attached images found.
+64 images scraped from post body content.
+
+Saving 133 posts (0 already exist)...
+[OK] page - about
+[OK] page - apps
+[OK] post - starting-ios-development
+[OK] post - development-continues-chapter-5
+[OK] post - xcode4-adding-a-framework
+[OK] post - finished-chapter-7-of-iphone-programming
+[OK] post - first-ray-wenderlich-tutorial-completed
+[OK] post - ray-wenderlich-scary-bug-part-23-completed
+[OK] post - scary-bugs-part-33-completed
+[OK] post - ios-programming-saving-data-with-nscoding-and-nsfilemanager
+[OK] post - ios-programming-itunes-file-sharing-emailing-a-file
+[OK] post - rw-beginning-iphone-programming-finished
+[OK] post - comparing-a-file
+[OK] post - sqlite3-and-ios
+[OK] post - iphone-calendar-app-ios5
+[OK] post - itunes-will-expire-in
+[OK] post - 78
+[OK] post - bulls-eye
+[OK] post - mountain-lion
+[OK] post - ios5-by-tutorials-from-rw
+[OK] post - ios-apprentice-tutorial-4-storesearch
+[OK] post - learning-cocos2d
+[OK] post - fterminal
+[OK] post - treehouse-ios-5-foundations
+[OK] post - git-immersion
+[OK] post - ios-snap-game-ray-wenderlich
+[OK] post - core-controls-in-mac-os-x-part-12
+[OK] post - ios-app-film-blog
+[OK] post - ios-film-app-cont
+[OK] post - links-treehouse
+[OK] post - ios-app-film-blog-part-3
+[OK] post - logo-icon
+[OK] post - ios-app-film-blog-part-4
+[OK] post - ios-countdown-game-and-solver-ideas
+[OK] post - gauntlet-icon
+[OK] post - 2013-in-review
+[OK] post - swift
+[OK] post - reachability
+[OK] post - ios-helpers
+[OK] post - hexagon-view
+[OK] post - parse-date
+[OK] post - parse-time
+[OK] post - first-element-of-dictionary
+[OK] post - youtube-unplugged
+[OK] post - vimeo-api
+[OK] post - replace
+[OK] post - app-not-fitting-the-full-screen
+[OK] post - navigation-bar-status-bar-colours
+[OK] post - mfmailcomposeviewcontroller
+[OK] post - xcode-missing-empty-application-template
+[OK] post - stop-ibooks-from-dimming
+[OK] post - passbook
+[OK] post - 2014-in-review
+[OK] post - punchclock
+[OK] post - xcode-shortcuts
+[OK] post - custom-url-schemes
+[OK] post - nsuserdefaults-and-plist
+[OK] post - android-woes
+[OK] post - android-webview
+[OK] post - ios-maze-game-tutorial-initial-setup
+[OK] post - font-maker
+[OK] post - integrate-zxing-with-android-studio
+[OK] post - android-reload-after-orientation-change
+[OK] post - android-dismiss-keyboard
+[OK] post - set-image-button-image
+[OK] post - android-javascriptinterface
+[OK] post - android-preferences-screen
+[OK] post - android-custom-url-scheme
+[OK] post - android-build-an-apk
+[OK] post - android-rename-a-project
+[OK] post - pull-to-refresh
+[OK] post - uiappearance-system-wide-font
+[OK] post - change-android-sdk
+[OK] post - button-gradient
+[OK] post - android-update-icon
+[OK] post - android-default-activity-not-found
+[OK] post - duke-special-at-sage-gateshead-on-19th-april-2015
+[OK] post - differing-table-view-heights
+[OK] post - sqlite-app
+[OK] post - export-column-headers
+[OK] post - send-an-email
+[OK] post - mac-app-icon
+[OK] post - watchkit-xcode-updating-bundle-identifiers
+[OK] post - sqlite-help
+[OK] post - grouping-data-in-sections
+[OK] post - done-button-on-numpad
+[OK] post - fmdb
+[OK] post - mac-dev-weekly
+[OK] post - adding-a-settings-bundle
+[OK] post - mac-os-x-dev
+[OK] post - collection-operators
+[OK] post - ios-charts
+[OK] post - batch-renaming-files
+[OK] post - brand-colours
+[OK] post - mac-osx-pasteboard
+[OK] post - multi-select-tableview
+[OK] post - marvel-api
+[OK] post - mac-syntax-highlighting
+[OK] post - utility-mac-app
+[OK] post - tvos-links
+[OK] post - tvos-playing-a-video
+[OK] post - debugging-a-tvml-tvos-app
+[OK] post - apple-tv-app-upload-error
+[OK] post - 2015-in-review
+[OK] post - goals-for-2016
+[OK] post - cloudkit
+[OK] post - apple-public-beta
+[OK] post - movem-ios-game
+[OK] post - movem-level-editor
+[OK] post - movem-progress
+[OK] post - using-itmstransporter-to-upload-game-centre-achievements
+[OK] post - tvml-tvos-10
+[OK] post - delegates-and-navigation-controllers
+[OK] post - goals-for-2016-review
+[OK] post - goals-for-2017
+[OK] post - camera-access
+[OK] post - google-maps-ios-sdk-error
+[OK] post - swift-package-manager-notes
+[OK] post - api-clients-chaining-requests
+[OK] post - xlform
+[OK] post - uiswitch
+[OK] post - custom-uialertcontroller-in-objc
+[OK] post - jam-jar-cinema-wallet-passes
+[OK] post - mapkit
+[OK] post - jsqmessagesviewcontroller-messages-ui
+[OK] post - xmppframework
+[OK] post - carousel-view
+[OK] post - pollen-today-widget
+[OK] post - uibutton-verticallayout
+[OK] post - uibarbuttonitem-image-and-text
+[OK] post - goals-for-2017-review
+[OK] post - goals-for-2018
+[OK] post - symantec-connect-100-solutions
+Done, got them all!
+
+Downloading and saving 118 images (0 already exist)...
+[OK] 5824299268_807543e4a1_z.jpg
+[OK] 5824299636_c8c8ec08e5_z.jpg
+[OK] 5824300000_2a646d12eb_z.jpg
+[OK] 5824755378_70871c7f16_z.jpg
+[OK] 5824763000_c67aabba36_z.jpg
+[OK] 5824752214_857e362fbc_z.jpg
+[OK] 5826078066_7956c98c9d_z.jpg
+[OK] 5826077788_042a58499f_z.jpg
+[OK] 5834364128_c2b0c88a3b_z.jpg
+[OK] sqlite370_banner.gif
+[OK] python-logo.gif
+[OK] 5847781965_d6eb5e6c96_z.jpg
+[OK] 6034789500_052b7ed484.jpg
+[FAILED] iPhone_4screens_withbook_b.png (RequestError: Error: getaddrinfo ENOTFOUND d1xzuxjlafny7l.cloudfront.net)
+[OK] NewBookCover230by300.jpg
+[OK] screen-shot-2012-04-06-at-19-19-18.png
+[FAILED] mzm.ppftunhd.175x175-75.jpg (StatusCodeError: 404)
+[OK] screen-shot-2012-04-06-at-19-20-55.png
+[OK] screen-shot-2012-04-06-at-19-21-27.png
+[OK] screen-shot-2012-04-06-at-19-42-19.png
+[OK] screen-shot-2012-04-06-at-19-19-18.png
+[OK] screen-shot-2012-04-06-at-19-20-55.png
+[OK] iOS5_AutomaticReferenceCounting.png
+[FAILED] logo-76385d4dcdd1dd0af1b6a04aa4f9a2d3.jpg (StatusCodeError: 404)
+[OK] iOS5_Storyboards.png
+[OK] iOS_5_WebView.png
+[OK] iOS5_DataCore.png
+[OK] iOS5_Notifications.png
+[OK] iOS5_Appearance.png
+[OK] 20120630-072609.jpg
+[OK] 20120630-072609.jpg
+[OK] screen-shot-2013-06-29-at-23-33-59.png
+[OK] screen-shot-2013-06-30-at-12-11-06.png
+[OK] screen-shot-2013-06-30-at-12-11-11.png
+[OK] screen-shot-2013-06-30-at-12-11-17.png
+[OK] screen-shot-2013-06-30-at-12-11-11.png
+[OK] screen-shot-2013-06-30-at-12-11-17.png
+[FAILED] gatsbyxmen.jpg (StatusCodeError: 404)
+[OK] gauntlet-blue-1024.png
+[OK] 2012-emailteaser.png
+[FAILED] badges_python_basics_stage6.png (RequestError: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: wac.a8b5.edgecastcdn.net. is not in the cert's altnames: DNS:gp1.wac.edgecastcdn.net, DNS:cdn.traceregister.com, DNS:ec.xnglobalres.com, DNS:images.esellerpro.com, DNS:secure.avelleassets.com, DNS:static.woopra.com, DNS:static.www.turnto.com, DNS:www.drwmedia.com, DNS:wac.edgecastcdn.net, DNS:ne.wac.edgecastcdn.net, DNS:ne1.wac.edgecastcdn.net, DNS:gs1.wac.edgecastcdn.net)
+[OK] youtube-unplugged.png
+[OK] youtube-unplugged-2.png
+[OK] add_to_passbook_badge.png
+[OK] 2014-emailteaser.png
+[OK] 15044998.jpg
+[OK] 15044992.jpg
+[OK] h.png
+[OK] m.png
+[FAILED] yt-brand-fullcolor-1.png (StatusCodeError: 404)
+[FAILED] yt-brand-fullcolor-2.png (StatusCodeError: 404)
+[FAILED] yt-brand-fullcolor-3.png (StatusCodeError: 404)
+[FAILED] swatches1.png (StatusCodeError: 404)
+[FAILED] swatches2.png (StatusCodeError: 404)
+[FAILED] swatches3.png (StatusCodeError: 404)
+[OK] screen-shot-2015-09-14-at-20-09-46.png
+[OK] screen-shot-2015-09-14-at-20-09-56.png
+[OK] screen-shot-2015-09-14-at-20-12-04.png
+[OK] screen-shot-2015-09-14-at-20-09-56.png
+[OK] 2014-emailteaser.png
+[OK] img_1882.png
+[OK] img_1885.jpeg
+[OK] img_1884.jpeg
+[OK] img_1887.png
+[OK] img_1886.png
+[OK] img_1888.png
+[OK] screen-shot-2016-03-19-at-22-11-37.png
+[OK] simulator-screen-shot-28-mar-2016-14-49-20.png
+[OK] simulator-screen-shot-28-mar-2016-14-49-201.png
+[OK] 9590_10153904295237626_3349345897379034331_n.jpg
+[OK] 12439453_10153904295042626_704539446687422450_n.jpg
+[OK] 12920253_10153904294997626_7004068413552353298_n.jpg
+[OK] simulator-screen-shot-28-mar-2016-16-06-12.png
+[OK] add-achievement.png
+[OK] features-game-center-group-achievements.png
+[OK] add-language.png
+[OK] show-package-contents.png
+[OK] xl_appicon_152.png
+[OK] register.png
+[OK] register-jvfloatlabeledtextfield-2.png
+[OK] register-jvfloatlabeledtextfield-4.png
+[OK] register-jvfloatlabeledtextfield-5.png
+[OK] register-jvfloatlabeledtextfield-6.png
+[OK] register-jvfloatlabeledtextfield-7.png
+[OK] uiswitch-background-with-radius.png
+[OK] uiswitch-background.png
+[OK] uiswitch-ontintcolor.png
+[OK] uiswitch-tintcolor.png
+[OK] simulator-screen-shot-25-apr-2017-14-50-06.png
+[OK] uialertcontroller-2.png
+[OK] jjc-passes-mac-1.png
+[OK] jjc-passes-1.png
+[OK] jjc-passes-2.png
+[OK] jjc-passes-3.png
+[OK] jjc-passes-4.png
+[OK] jjc-passes-5.png
+[OK] jjc-passes-6.png
+[OK] jjc-passes-7.png
+[OK] jjc-passes-8.png
+[OK] passslot.png
+[OK] img_4043.png
+[OK] img_4042.png
+[OK] img_4044.png
+[OK] maps_ios-128x128_2x.png
+[OK] jsq_messages_banner.png
+[OK] xmppframework2.png
+[OK] img_4315.png
+[OK] img_4317.jpg
+[OK] img_4314.png
+[OK] img_4315-1.png
+[OK] img_4317-1.jpg
+[FAILED] 3-trans.png (RequestError: Error: getaddrinfo ENOTFOUND www.claritynallergy.co.uk)
+[OK] img_4314.png
+[OK] img_4315-1.png
+[OK] verticalbutton-1.png
+[OK] verticalbutton-2.png
+[OK] img_1318.jpg
+[FAILED] 07.png (RequestError: Error: connect ETIMEDOUT 164.177.150.200:443)
+Done, but with 13 failed.
+
+All done!
+Look for your output files in: D:\CODE\Blog\Wordpress-2\posts
+npm notice
+npm notice New major version of npm available! 8.5.5 -> 9.4.0
+npm notice Changelog: https://github.com/npm/cli/releases/tag/v9.4.0
+npm notice Run npm install -g npm@9.4.0 to update!
+npm notice
